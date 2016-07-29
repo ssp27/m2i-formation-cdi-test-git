@@ -2,3 +2,4 @@ ici l index du site
 ajout de la barre de navigation
 lien vers le panier
 correction de bug
+autre correction de bug
