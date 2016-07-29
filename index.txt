@@ -1,0 +1,2 @@
+ici l index du site
+ajout de la barre de navigation
